@@ -31,3 +31,7 @@
 	path = polyclip
 	url = https://github.com/baddstats/polyclip
 	shallow = true
+[submodule "spatstat.linnet"]
+	path = spatstat.linnet
+	url = https://github.com/baddstats/spatstat.linnet
+	shallow = true
