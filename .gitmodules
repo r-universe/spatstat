@@ -3,10 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "spatstat"]
-	path = spatstat
-	url = https://github.com/spatstat/spatstat
-	shallow = true
 [submodule "spatstat.core"]
 	path = spatstat.core
 	url = https://github.com/spatstat/spatstat.core
