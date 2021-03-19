@@ -23,3 +23,11 @@
 	path = spatstat.utils
 	url = https://github.com/spatstat/spatstat.utils
 	shallow = true
+[submodule "polyclip"]
+	path = polyclip
+	url = https://github.com/baddstats/polyclip
+	shallow = true
+[submodule "spatstat.linnet"]
+	path = spatstat.linnet
+	url = https://github.com/baddstats/spatstat.linnet
+	shallow = true

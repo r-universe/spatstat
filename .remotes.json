@@ -1,0 +1,26 @@
+[
+  {
+    "package": "polyclip",
+    "url": "https://github.com/baddstats/polyclip",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.data",
+    "url": "https://github.com/spatstat/spatstat.data",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.linnet",
+    "url": "https://github.com/baddstats/spatstat.linnet",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.utils",
+    "url": "https://github.com/spatstat/spatstat.utils",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  }
+]
