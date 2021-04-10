@@ -7,27 +7,34 @@
 	path = spatstat.core
 	url = https://github.com/spatstat/spatstat.core
 	shallow = true
+	registered = true
 [submodule "spatstat.data"]
 	path = spatstat.data
 	url = https://github.com/spatstat/spatstat.data
 	shallow = true
+	registered = true
 [submodule "spatstat.geom"]
 	path = spatstat.geom
 	url = https://github.com/spatstat/spatstat.geom
 	shallow = true
+	registered = true
 [submodule "spatstat.sparse"]
 	path = spatstat.sparse
 	url = https://github.com/spatstat/spatstat.sparse
 	shallow = true
+	registered = true
 [submodule "spatstat.utils"]
 	path = spatstat.utils
 	url = https://github.com/spatstat/spatstat.utils
 	shallow = true
+	registered = true
 [submodule "polyclip"]
 	path = polyclip
 	url = https://github.com/baddstats/polyclip
 	shallow = true
+	registered = false
 [submodule "spatstat.linnet"]
 	path = spatstat.linnet
 	url = https://github.com/baddstats/spatstat.linnet
 	shallow = true
+	registered = false
