@@ -18,6 +18,18 @@
     "from": "spatstat.core"
   },
   {
+    "package": "polyclip",
+    "url": "https://github.com/baddstats/polyclip",
+    "via": ["spatstat.geom", "spatstat.linnet", "spatstat.core"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "polyclip",
+    "url": "https://github.com/baddstats/polyclip",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
     "package": "spatstat",
     "url": "https://github.com/spatstat/spatstat",
     "via": ["spatstat.core", "spatstat.geom", "spatstat.linnet"],
@@ -28,6 +40,18 @@
     "url": "https://github.com/spatstat/spatstat",
     "via": ["spatstat.core", "spatstat.linnet"],
     "from": "spatstat.core"
+  },
+  {
+    "package": "spatstat",
+    "url": "https://github.com/spatstat/spatstat",
+    "via": ["spatstat.geom", "spatstat.linnet"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.core",
+    "url": "https://github.com/spatstat/spatstat.core",
+    "via": ["spatstat.geom", "spatstat.linnet"],
+    "from": "spatstat.geom"
   },
   {
     "package": "spatstat.data",
@@ -60,6 +84,24 @@
     "from": "spatstat.core"
   },
   {
+    "package": "spatstat.data",
+    "url": "https://github.com/spatstat/spatstat.data",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.data",
+    "url": "https://github.com/spatstat/spatstat.data",
+    "via": ["spatstat.geom", "spatstat.linnet"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.data",
+    "url": "https://github.com/spatstat/spatstat.data",
+    "via": ["spatstat.geom", "spatstat.linnet", "spatstat.core"],
+    "from": "spatstat.geom"
+  },
+  {
     "package": "spatstat.geom",
     "url": "https://github.com/spatstat/spatstat.geom",
     "via": ["spatstat.core"],
@@ -82,6 +124,12 @@
     "url": "https://github.com/baddstats/spatstat.linnet",
     "via": ["spatstat.core"],
     "from": "spatstat.core"
+  },
+  {
+    "package": "spatstat.linnet",
+    "url": "https://github.com/baddstats/spatstat.linnet",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
   },
   {
     "package": "spatstat.sparse",
@@ -90,6 +138,12 @@
     "from": "spatstat.core"
   },
   {
+    "package": "spatstat.sparse",
+    "url": "https://github.com/spatstat/spatstat.sparse",
+    "via": ["spatstat.geom", "spatstat.linnet", "spatstat.core"],
+    "from": "spatstat.geom"
+  },
+  {
     "package": "spatstat.utils",
     "url": "https://github.com/spatstat/spatstat.utils",
     "via": ["spatstat.core"],
@@ -118,5 +172,23 @@
     "url": "https://github.com/spatstat/spatstat.utils",
     "via": ["spatstat.core", "spatstat.linnet", "spatstat.geom"],
     "from": "spatstat.core"
+  },
+  {
+    "package": "spatstat.utils",
+    "url": "https://github.com/spatstat/spatstat.utils",
+    "via": ["spatstat.geom"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.utils",
+    "url": "https://github.com/spatstat/spatstat.utils",
+    "via": ["spatstat.geom", "spatstat.linnet"],
+    "from": "spatstat.geom"
+  },
+  {
+    "package": "spatstat.utils",
+    "url": "https://github.com/spatstat/spatstat.utils",
+    "via": ["spatstat.geom", "spatstat.linnet", "spatstat.core"],
+    "from": "spatstat.geom"
   }
 ]
