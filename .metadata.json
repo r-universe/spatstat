@@ -1,0 +1,26 @@
+[
+  {
+    "package": "spatstat.core",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.data",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.geom",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.linnet",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.sparse",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.utils",
+    "oncran": true
+  }
+]
