@@ -1,5 +1,9 @@
 [
   {
+    "package": "spatstat",
+    "oncran": true
+  },
+  {
     "package": "spatstat.core",
     "oncran": true
   },
