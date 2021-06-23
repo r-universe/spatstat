@@ -38,8 +38,3 @@
 	url = https://github.com/baddstats/polyclip
 	shallow = true
 	registered = false
-[submodule "spatstat"]
-	path = spatstat
-	url = https://github.com/spatstat/spatstat
-	shallow = true
-	registered = false
