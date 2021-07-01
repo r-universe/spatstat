@@ -181,13 +181,13 @@
   },
   {
     "package": "spatstat.linnet",
-    "url": "https://github.com/baddstats/spatstat.linnet",
+    "url": "https://github.com/spatstat/spatstat.linnet",
     "via": ["spatstat.core", "spatstat.geom"],
     "from": "spatstat.core"
   },
   {
     "package": "spatstat.linnet",
-    "url": "https://github.com/baddstats/spatstat.linnet",
+    "url": "https://github.com/spatstat/spatstat.linnet",
     "via": ["spatstat.core"],
     "from": "spatstat.core"
   },
