@@ -193,7 +193,7 @@
   },
   {
     "package": "spatstat.linnet",
-    "url": "https://github.com/baddstats/spatstat.linnet",
+    "url": "https://github.com/spatstat/spatstat.linnet",
     "via": ["spatstat.geom"],
     "from": "spatstat.geom"
   },
