@@ -28,6 +28,11 @@
 	url = https://github.com/spatstat/spatstat.linnet
 	shallow = true
 	registered = true
+[submodule "spatstat.random"]
+	path = spatstat.random
+	url = https://github.com/spatstat/spatstat.random
+	shallow = true
+	registered = true
 [submodule "spatstat.sparse"]
 	path = spatstat.sparse
 	url = https://github.com/spatstat/spatstat.sparse

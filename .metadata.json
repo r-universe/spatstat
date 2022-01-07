@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "spatstat.random",
+    "oncran": true
+  },
+  {
     "package": "spatstat.sparse",
     "oncran": true
   },
