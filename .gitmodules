@@ -38,6 +38,11 @@
 	url = https://github.com/spatstat/spatstat.model
 	shallow = true
 	registered = true
+[submodule "spatstat.core"]
+	path = spatstat.core
+	url = https://github.com/spatstat/spatstat.core
+	shallow = true
+	registered = true
 [submodule "spatstat.linnet"]
 	path = spatstat.linnet
 	url = https://github.com/spatstat/spatstat.linnet

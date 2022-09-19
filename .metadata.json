@@ -26,6 +26,10 @@
     "package": "spatstat.model"
   },
   {
+    "package": "spatstat.core",
+    "oncran": true
+  },
+  {
     "package": "spatstat.linnet",
     "oncran": true
   },
