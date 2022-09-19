@@ -1,26 +1,10 @@
 [
   {
-    "package": "spatstat",
-    "oncran": true
-  },
-  {
-    "package": "spatstat.core",
-    "oncran": true
-  },
-  {
     "package": "spatstat.data",
     "oncran": true
   },
   {
-    "package": "spatstat.geom",
-    "oncran": true
-  },
-  {
-    "package": "spatstat.linnet",
-    "oncran": true
-  },
-  {
-    "package": "spatstat.random",
+    "package": "spatstat.utils",
     "oncran": true
   },
   {
@@ -28,7 +12,25 @@
     "oncran": true
   },
   {
-    "package": "spatstat.utils",
+    "package": "spatstat.geom",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.random",
+    "oncran": true
+  },
+  {
+    "package": "spatstat.explore"
+  },
+  {
+    "package": "spatstat.model"
+  },
+  {
+    "package": "spatstat.linnet",
+    "oncran": true
+  },
+  {
+    "package": "spatstat",
     "oncran": true
   }
 ]
