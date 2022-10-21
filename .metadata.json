@@ -1,5 +1,12 @@
 [
   {
+    "package": "RandomFieldsUtils",
+    "oncran": false
+  },
+  {
+    "package": "RandomFields"
+  },
+  {
     "package": "spatstat.data",
     "oncran": true
   },

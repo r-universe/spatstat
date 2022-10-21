@@ -3,6 +3,16 @@
 	url = https://github.com/spatstat/universe
 	shallow = true
 	branch = HEAD
+[submodule "RandomFieldsUtils"]
+	path = RandomFieldsUtils
+	url = https://github.com/cran/RandomFieldsUtils
+	shallow = true
+	registered = true
+[submodule "RandomFields"]
+	path = RandomFields
+	url = https://github.com/cran/RandomFields
+	shallow = true
+	registered = true
 [submodule "spatstat.data"]
 	path = spatstat.data
 	url = https://github.com/spatstat/spatstat.data
