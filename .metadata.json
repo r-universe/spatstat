@@ -27,7 +27,8 @@
     "oncran": true
   },
   {
-    "package": "spatstat.explore"
+    "package": "spatstat.explore",
+    "oncran": true
   },
   {
     "package": "spatstat.model"
