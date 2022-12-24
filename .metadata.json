@@ -1,7 +1,6 @@
 [
   {
-    "package": "RandomFieldsUtils",
-    "oncran": false
+    "package": "RandomFieldsUtils"
   },
   {
     "package": "RandomFields"
@@ -35,8 +34,7 @@
     "oncran": false
   },
   {
-    "package": "spatstat.core",
-    "oncran": true
+    "package": "spatstat.core"
   },
   {
     "package": "spatstat.linnet",
