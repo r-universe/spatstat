@@ -1,65 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/spatstat/universe
-	shallow = true
 	branch = HEAD
 [submodule "RandomFieldsUtils"]
 	path = RandomFieldsUtils
 	url = https://github.com/cran/RandomFieldsUtils
-	shallow = true
-	registered = true
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://github.com/cran/RandomFields
-	shallow = true
-	registered = true
 [submodule "spatstat.data"]
 	path = spatstat.data
 	url = https://github.com/spatstat/spatstat.data
-	shallow = true
-	registered = true
 [submodule "spatstat.utils"]
 	path = spatstat.utils
 	url = https://github.com/spatstat/spatstat.utils
-	shallow = true
-	registered = true
 [submodule "spatstat.sparse"]
 	path = spatstat.sparse
 	url = https://github.com/spatstat/spatstat.sparse
-	shallow = true
-	registered = true
 [submodule "spatstat.geom"]
 	path = spatstat.geom
 	url = https://github.com/spatstat/spatstat.geom
-	shallow = true
-	registered = true
 [submodule "spatstat.random"]
 	path = spatstat.random
 	url = https://github.com/spatstat/spatstat.random
-	shallow = true
-	registered = true
 [submodule "spatstat.explore"]
 	path = spatstat.explore
 	url = https://github.com/spatstat/spatstat.explore
-	shallow = true
-	registered = true
 [submodule "spatstat.model"]
 	path = spatstat.model
 	url = https://github.com/spatstat/spatstat.model
-	shallow = true
-	registered = true
 [submodule "spatstat.core"]
 	path = spatstat.core
 	url = https://github.com/spatstat/spatstat.core
-	shallow = true
-	registered = true
 [submodule "spatstat.linnet"]
 	path = spatstat.linnet
 	url = https://github.com/spatstat/spatstat.linnet
-	shallow = true
-	registered = true
 [submodule "spatstat"]
 	path = spatstat
 	url = https://github.com/spatstat/spatstat
-	shallow = true
-	registered = true
