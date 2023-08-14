@@ -2,39 +2,39 @@
 	path = .registry
 	url = https://github.com/spatstat/universe
 	branch = HEAD
-[submodule "RandomFieldsUtils"]
-	path = RandomFieldsUtils
-	url = https://github.com/cran/RandomFieldsUtils
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://github.com/cran/RandomFields
-[submodule "spatstat.data"]
-	path = spatstat.data
-	url = https://github.com/spatstat/spatstat.data
-[submodule "spatstat.utils"]
-	path = spatstat.utils
-	url = https://github.com/spatstat/spatstat.utils
-[submodule "spatstat.sparse"]
-	path = spatstat.sparse
-	url = https://github.com/spatstat/spatstat.sparse
-[submodule "spatstat.geom"]
-	path = spatstat.geom
-	url = https://github.com/spatstat/spatstat.geom
-[submodule "spatstat.random"]
-	path = spatstat.random
-	url = https://github.com/spatstat/spatstat.random
-[submodule "spatstat.explore"]
-	path = spatstat.explore
-	url = https://github.com/spatstat/spatstat.explore
-[submodule "spatstat.model"]
-	path = spatstat.model
-	url = https://github.com/spatstat/spatstat.model
-[submodule "spatstat.core"]
-	path = spatstat.core
-	url = https://github.com/spatstat/spatstat.core
-[submodule "spatstat.linnet"]
-	path = spatstat.linnet
-	url = https://github.com/spatstat/spatstat.linnet
+[submodule "RandomFieldsUtils"]
+	path = RandomFieldsUtils
+	url = https://github.com/cran/RandomFieldsUtils
 [submodule "spatstat"]
 	path = spatstat
 	url = https://github.com/spatstat/spatstat
+[submodule "spatstat.core"]
+	path = spatstat.core
+	url = https://github.com/spatstat/spatstat.core
+[submodule "spatstat.data"]
+	path = spatstat.data
+	url = https://github.com/spatstat/spatstat.data
+[submodule "spatstat.explore"]
+	path = spatstat.explore
+	url = https://github.com/spatstat/spatstat.explore
+[submodule "spatstat.geom"]
+	path = spatstat.geom
+	url = https://github.com/spatstat/spatstat.geom
+[submodule "spatstat.linnet"]
+	path = spatstat.linnet
+	url = https://github.com/spatstat/spatstat.linnet
+[submodule "spatstat.model"]
+	path = spatstat.model
+	url = https://github.com/spatstat/spatstat.model
+[submodule "spatstat.random"]
+	path = spatstat.random
+	url = https://github.com/spatstat/spatstat.random
+[submodule "spatstat.sparse"]
+	path = spatstat.sparse
+	url = https://github.com/spatstat/spatstat.sparse
+[submodule "spatstat.utils"]
+	path = spatstat.utils
+	url = https://github.com/spatstat/spatstat.utils
