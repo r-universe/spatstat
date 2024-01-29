@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/spatstat/universe
+	url = https://github.com/spatstat/spatstat.r-universe.dev
 	branch = HEAD
 [submodule "RandomFields"]
 	path = RandomFields
