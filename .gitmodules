@@ -35,6 +35,9 @@
 [submodule "spatstat.sparse"]
 	path = spatstat.sparse
 	url = https://github.com/spatstat/spatstat.sparse
+[submodule "spatstat.univar"]
+	path = spatstat.univar
+	url = https://github.com/spatstat/spatstat.univar
 [submodule "spatstat.utils"]
 	path = spatstat.utils
 	url = https://github.com/spatstat/spatstat.utils
