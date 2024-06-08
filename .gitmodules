@@ -7,7 +7,7 @@
 	url = https://github.com/cran/RandomFields
 [submodule "RandomFieldsUtils"]
 	path = RandomFieldsUtils
-	url = https://github.com/cran/RandomFieldsUtils
+	url = https://github.com/rubak/RandomFieldsUtils
 [submodule "spatstat"]
 	path = spatstat
 	url = https://github.com/spatstat/spatstat
