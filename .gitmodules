@@ -11,9 +11,6 @@
 [submodule "spatstat"]
 	path = spatstat
 	url = https://github.com/spatstat/spatstat
-[submodule "spatstat.core"]
-	path = spatstat.core
-	url = https://github.com/spatstat/spatstat.core
 [submodule "spatstat.data"]
 	path = spatstat.data
 	url = https://github.com/spatstat/spatstat.data
